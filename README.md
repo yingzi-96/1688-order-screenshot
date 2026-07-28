@@ -9,7 +9,7 @@
 进入项目目录：
 
 ```powershell
-cd C:\Users\Administrator\Documents\1888\1688_order_screenshot
+cd D:\1688_order_screenshot
 ```
 
 安装 Python 依赖：
